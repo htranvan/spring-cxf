@@ -7,9 +7,12 @@
 	<version>1.0.0</version>
 
 	<name>spring cxf RESTful Web services</name>
+	
+	
 	<url></url>
 
 	<properties>
+	
 		<maven.test.skip>false</maven.test.skip>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>4.1.1.RELEASE</spring.version>
